@@ -44,7 +44,8 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![Uploading Screenshot 2025-05-02 052757.png…]()
+
+![Screenshot 2025-05-02 052757](https://github.com/user-attachments/assets/2555209e-4e71-4ce3-a157-7e0d012d7836)
 
 
 ### Name: MANIKANDAN.V
